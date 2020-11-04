@@ -1,6 +1,6 @@
 # Indecision
 
-A simple todo app that randomly chooses a task for you when you cannot what to do first.
+A simple todo app that randomly chooses a task for you when you cannot choose what to do first.
 
 ![Indecision screenshot](public/images/screenshot.png)
 
