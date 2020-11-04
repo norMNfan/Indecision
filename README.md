@@ -1,8 +1,12 @@
 # Indecision
 
-A simple app to keep track of a todo list and randomly choose one task to do.
+A simple todo app that randomly chooses a task for you when you cannot what to do first.
 
-The purpose of this app was for me to learn React and other related front end technologies.
+![Indecision screenshot](public/images/screenshot.png)
+
+## Motivation
+
+The purpose of this app was to learn React and other related front end technologies.
 - React
 - Javascript
 - es6
